@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>sbondPortal</title>
-  <meta name="description" content="sbond.ml portal">
+  <meta name="description" content="sbond.co portal">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, 
 	maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" media="screen" href="css/styles.css?v=5.6">
