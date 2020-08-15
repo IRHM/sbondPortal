@@ -1,4 +1,4 @@
 # sbondPortal
-sbond main page. 
+Main page for sbond.co.
 
-https://sbond.co
+Background made with [particles.js](https://vincentgarreau.com/particles.js/).
