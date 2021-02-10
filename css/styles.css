@@ -45,7 +45,7 @@ body {
   border-bottom: 2px solid white;
   margin: 2px;
   padding: 2px;
-  transition: border-image, padding 0.15s ease;
+  transition: padding 150ms ease;
 }
 
 .portalContent:hover,
