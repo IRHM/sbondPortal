@@ -1,7 +1,7 @@
 particlesJS({
   particles: {
     number: {
-      value: 80,
+      value: 60,
       density: {
         enable: true,
         value_area: 800
@@ -89,10 +89,10 @@ particlesJS({
       },
       bubble: {
         distance: 200,
-        size: 2,
-        duration: 1.038961038961039,
-        opacity: 8,
-        speed: 3
+        size: 2.5,
+        duration: 0.8,
+        opacity: 1,
+        speed: 1
       },
       repulse: {
         distance: 130,
