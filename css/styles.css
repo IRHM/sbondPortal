@@ -86,11 +86,13 @@ body {
     overflow-y: auto;
   }
 
-  .portal {
-    height: auto;
-  }
-
   .portal h1 {
     margin-top: 20px;
+  }
+}
+
+@media (max-height: 440px), (max-width: 850px) {
+  .portal {
+    height: auto;
   }
 }
